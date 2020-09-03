@@ -1,0 +1,21 @@
+Parabéns por ter concluído o curso de acessibilidade web front-end! Nosso curso foi totalmente focado em usuários que fazem uso dos leitores de tela, especificamente o NVDA que está se torando a ferramenta mais popular entre os usuários.
+
+No que diz respeita à acessibilidade, é interessante que nosso código possua apenas um <h1>, para hierarquizarmos a informação.
+
+Vimos na prática a importância do atributo lang para experiência do usuário e como organizar o atributo para frases em outro idioma.
+
+Conhecemos, também, o atributo alt e seus processos descritivos com imagens. Conhecemos a ferramenta automática desenvolvida pelo Facebook e suas limitações.
+
+Analisamos como CSS interfere na experiência de acessibilidade. Discutimos sobre o liststyle=none e liststyle=disc no texto das modalidades de planos, e como o leitor de tela se comporta com base nessas informações de estilo.
+
+Vimos, ainda, como o dysplay = none e hidden de fato ocultam informações que são, muitas vezes, cruciais para o usuário de leitores de telas como o NVDA.
+
+Aprendemos como fazer um atalho para que o usuário acesse diretamente o conteúdo principal. Conhecemos, rapidamente, a ferramenta da WAI-ARIA , que é basicamente para mudar o papel dos elementos de um código e criar relações entre eles.
+
+Na questão da presença de vídeos em nosso site, aprendemos como inserir legendas em um vídeo html 5 e conhecemos o plug-in Hand Talk que realiza traduções para Libras. Vimos, muitas vezes, que é interessante inserir o player do YouTube diretamente em nosso site para acompanharmos o número de visualizações,por exemplo.
+
+Você que é designer, espero que tenha tido uma noção de que não é tão difícil começar a melhorar a acessibilidade do nosso código. Para os front-enders, espero que esse curso tenha contribuído para que você torne seus projetos mais acessíveis.
+
+É importante frisar que refletir sobre acessibilidade não é uma questão de "boa ação", mas sim de inclusão. Com isso os sites possuem uma maior usabilidade, você atinge um público maior e todos ganham com essa movimentação.
+
+Não se esqueçam de avaliar o curso e fornecer feedbacks para nós!
